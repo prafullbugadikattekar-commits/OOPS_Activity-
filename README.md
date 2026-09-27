@@ -204,12 +204,5 @@ g++ Unit-3/12_collection_of_polymorphic_shape_pointers.cpp -o run.exe
 ```
 
 ---
-
-## 📋 Evaluation Checklist & Best Practices
-
-- [x] **Aligned with Official Curriculum:** Filenames and titles match the course codebook structure 1:1.
-- [x] **Clean Source Code:** Clean program implementations adhering strictly to OOP standards without redundant comment blocks.
-- [x] **Real-World Applications:** Every unit is supplemented with practical real-life examples and functional mini-projects.
-- [x] **Standard Compliance:** All code compiles warning-free under standard GCC/MinGW compiler.
-- [x] **Git Cleanliness:** `.gitignore` is configured to prevent binary executables (`*.exe`, `*.o`, `*.out`) from polluting the git tree.
+` is configured to prevent binary executables (`*.exe`, `*.o`, `*.out`) from polluting the git tree.
 - [x] **Transparent Commit History:** Atomic, clear commit history tracking additions and documentation by unit.
