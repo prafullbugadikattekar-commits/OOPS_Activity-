@@ -186,23 +186,11 @@ All programs use standard C++ (compatible with C++11, C++14, and C++17) and can 
 ### Compiling Any Specific Program
 
 ```bash
-# Example 1: Compile and run Unit 1 practical
+# Example : Compile and run Unit 1 practical
 g++ Unit-1/01_basic_data_types.cpp -o run.exe
 ./run.exe
 
-# Example 2: Compile and run Unit 1 real life example
-g++ Unit-1/real_life_eg/1st.cpp -o run.exe
-./run.exe
-
-# Example 3: Compile and run Unit 2 mini-project
-g++ Unit-2/real_life_eg/mini_project2.cpp -o run.exe
-./run.exe
-
-# Example 4: Compile and run Unit 3 polymorphic shape pointer practical
-g++ Unit-3/12_collection_of_polymorphic_shape_pointers.cpp -o run.exe
-./run.exe
 ```
 
 ---
-` is configured to prevent binary executables (`*.exe`, `*.o`, `*.out`) from polluting the git tree.
-- [x] **Transparent Commit History:** Atomic, clear commit history tracking additions and documentation by unit.
+
