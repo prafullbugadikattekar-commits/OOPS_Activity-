@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// Demonstrates basic fundamental data types in C++
 int main(){
     // Variable declarations with fundamental data types
     int roll = 2307;       // Integer data type
