@@ -20,7 +20,7 @@ This repository contains a comprehensive, structured collection of C++ programmi
 ## 📁 Repository Structure
 
 ```text
-Cpp_Codebook/
+OOPS_Activity/
 ├── .gitignore
 ├── README.md
 ├── Unit-1/
